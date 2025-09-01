@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FehMatos/Expense-Tracker/static/css/main.c1dd4930.css",
+    "main.js": "/FehMatos/Expense-Tracker/static/js/main.aba454b4.js",
+    "index.html": "/FehMatos/Expense-Tracker/index.html",
+    "main.c1dd4930.css.map": "/FehMatos/Expense-Tracker/static/css/main.c1dd4930.css.map",
+    "main.aba454b4.js.map": "/FehMatos/Expense-Tracker/static/js/main.aba454b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1dd4930.css",
+    "static/js/main.aba454b4.js"
+  ]
+}
